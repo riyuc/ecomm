@@ -1,0 +1,1 @@
+# docker run --name ecomm-mysql -p 3307:3306 -e MYSQL_ROOT_PASSWORD=password -d mysql:8.4
